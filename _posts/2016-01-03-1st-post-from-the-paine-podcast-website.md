@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T18:40:00.281Z'
-dateModified: '2016-01-03T18:39:34.107Z'
-title: 1st post from the PAINE Podcast website
+datePublished: '2016-01-03T18:45:24.698Z'
+dateModified: '2016-01-03T18:45:15.411Z'
+title: 1st Blog Post for PAINE Podcast
 author: []
 sourcePath: _posts/2016-01-03-1st-post-from-the-paine-podcast-website.md
 published: true
@@ -22,8 +22,9 @@ url: 1st-post-from-the-paine-podcast-website/index.html
 _type: Article
 
 ---
-**_1st post from the PAINE Podcast website_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b0f20b-fdd7-4636-8251-759ba6d85731.jpg)
+
+# 1st Blog Post for PAINE Podcast
 
 I am getting really excited to being one step closer to having the website to go with the PAINE Podcast.  Here you will find show notes, links, and references from the podcast.
 
