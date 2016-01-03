@@ -1,0 +1,28 @@
+name: PAINE Podcast
+favicon: null
+layout_spectrum: 0.9053006623871624
+typography_spectrum: 0.4560788399539888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.01853969064541161
+  lightness: 0.8981619833502918
+  saturation: 0.855944289593026
+  rhythmicContrast: 0.8744207909330726
+purpose: []
