@@ -1,6 +1,6 @@
 name: PAINE Podcast
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.77751
 typography_spectrum: 1
 title: PAINE Podcast and Medical Blog
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b2aeab'
     - '#ffffff'
     - '#329be3'
-  brandStrength: 0.75
+  brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.875
   rhythmicContrast: 0.75
